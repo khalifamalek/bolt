@@ -155,7 +155,7 @@ const translations = {
     'cta.subtitle': 'Rejoins des milliers d\'élèves اللي يحضرو للنجاح متاعهم مع Pack Bac',
     'cta.download': 'Télécharger le Pack maintenant',
     'cta.start': 'إبدا قرايتك اليوم',
-    'footer.tagline': 'شريكك اللي تثق فيه باش تنجح في الBac في تونس.',
+    'footer.tagline': 'شريكك اللي تثق فيه باش تنجح في ال\'Bac\' في تونس.',
     'footer.contact': 'Contact',
     'footer.email': 'Email: contact@bacpack2026.tn',
     'footer.phone': 'Tél: +216 XX XXX XXX',
@@ -201,9 +201,9 @@ const translations = {
     'pack.shipping': 'التوصيل',
     'pack.free': 'بلاش',
     'pack.total': 'التوتال',
-    'pack.confirmBuy': 'كونفيرمي الشراء',
-    'pack.fillAllFields': 'لازم تعمر الكل',
-    'pack.orderConfirmed': 'الكوموند تكونفرما!'
+    'pack.confirmBuy': 'Confirmer l\'achat',
+    'pack.fillAllFields': '',
+    'pack.orderConfirmed': ''
   }
 };
 
