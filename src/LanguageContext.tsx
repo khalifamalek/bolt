@@ -115,7 +115,7 @@ const translations = {
     'nav.back': 'رجوع',
     'hero.badge': 'جديد 🇹🇳',
     'hero.title': 'حضّر Bac 2026 متاعك بثقة',
-    'hero.subtitle': 'كورسات، سلسلات، مواضيع و إصلاح — الكل في Pack واحد.',
+    'hero.subtitle': 'Cours، سلسلات، مواضيع و Corrigés — الكل في Pack واحد.',
     'hero.cta': 'إكتشف الPack',
     'hero.students': 'تلميذ نشيط',
     'hero.satisfaction': 'رضا',
@@ -123,66 +123,66 @@ const translations = {
     'hero.successSub': 'بطرقنا',
     'features.title': 'شنوا موجود في الPack؟',
     'features.subtitle': 'كل شي تحتاجو باش تنجح في الBac',
-    'features.courses': 'الكورسات',
-    'features.coursesDesc': 'كورسات كاملة و مرتبة على حسب البرنامج',
-    'features.exercises': 'التمارين و السلسلات',
+    'features.courses': 'Cours',
+    'features.coursesDesc': 'Cours كاملة و مرتبة على حسب البرنامج',
+    'features.exercises': 'Exercices و Séries',
     'features.exercisesDesc': 'مئات التمارين بمستويات مختلفة',
     'features.extracts': 'مواضيع الBac',
     'features.extractsDesc': 'مواضيع حقيقية من إمتحانات السنين اللي فاتت',
-    'features.extracurricular': 'باراسكولار',
+    'features.extracurricular': 'Parascolaires',
     'features.extracurricularDesc': 'حاجات زايدة باش تفهم أكثر',
-    'features.corrections': 'الإصلاح',
-    'features.correctionsDesc': 'إصلاح مفصل لكل التمارين',
-    'benefits.title': 'علاش تختار Pack Bac  2026؟',
-    'benefits.subtitle': ' bac أحسن حاجة باش تحضر للباك',
+    'features.corrections': 'Corrigés',
+    'features.correctionsDesc': 'Corrigés مفصلة لكل التمارين',
+    'benefits.title': 'علاش تختار Pack Bac 2026؟',
+    'benefits.subtitle': 'أحسن حاجة باش تحضر للBac',
     'benefits.verified': 'محتوى متحقق من عند المعلمين',
     'benefits.adapted': '100٪ على حسب البرنامج التونسي',
     'benefits.updates': 'تحديثات بلاش',
     'benefits.mobile': 'تنجم تستعملو من التليفون',
     'testimonials.title': 'يثقو فينا',
-    'testimonials.amira': 'بفضل باك باك، نجحت في الباك بعلامة مليحة. الإصلاح مفصل برشا!',
+    'testimonials.amira': 'بفضل Pack الBac، نجحت في الBac بعلامة مليحة. الإصلاح مفصل برشا!',
     'testimonials.amiraName': 'أميرة ك.',
-    'testimonials.amiraTitle': 'باك 2025',
-    'testimonials.mohamed': 'السلسلات عاونوني برشا نفهم الماطماطيك. ننصح بيهم!',
+    'testimonials.amiraTitle': 'Bac 2025',
+    'testimonials.mohamed': 'Séries التمارين عاونوني برشا نفهم الماطماطيك. ننصح بيهم!',
     'testimonials.mohamedName': 'محمد س.',
-    'testimonials.mohamedTitle': 'باك 2025',
-    'testimonials.salma': 'مزيان برشا باش تقرا في أي بلاصة! نستعمل الباك من التليفون وقت نكون في الطريق.',
+    'testimonials.mohamedTitle': 'Bac 2025',
+    'testimonials.salma': 'مزيان برشا باش تقرا في أي بلاصة! نستعمل الPack من التليفون وقت نكون في الطريق.',
     'testimonials.salmaName': 'سلمى ب.',
     'testimonials.salmaTitle': 'تلميذة توا',
     'testimonials.studentsCount': '+2000 تلميذ',
     'testimonials.trust': 'يثقو فينا كل عام',
-    'cta.title': 'وليت جاهز تنجح في الباك 2026؟',
-    'cta.subtitle': 'دخل مع آلاف التلامذة اللي يحضرو للنجاح متاعهم مع باك باك',
-    'cta.download': 'حمّل الباك توا',
+    'cta.title': 'وليت جاهز تنجح في الBac 2026؟',
+    'cta.subtitle': 'دخل مع آلاف التلامذة اللي يحضرو للنجاح متاعهم مع Pack Bac',
+    'cta.download': 'حمّل الPack توا',
     'cta.start': 'إبدا قرايتك اليوم',
-    'footer.tagline': 'شريكك اللي تثق فيه باش تنجح في الباك في تونس.',
+    'footer.tagline': 'شريكك اللي تثق فيه باش تنجح في الBac في تونس.',
     'footer.contact': 'كونتاكت',
     'footer.email': 'إيمايل: contact@bacpack2026.tn',
     'footer.phone': 'تليفون: +216 XX XXX XXX',
     'footer.follow': 'تابعنا',
-    'footer.rights': '© 2026 باك باك. كل الحقوق محفوظة.',
-    'selection.title': 'شخّص الباك متاعك',
+    'footer.rights': '© 2026 Pack Bac. كل الحقوق محفوظة.',
+    'selection.title': 'شخّص الPack متاعك',
     'selection.subtitle': 'إختار التخصص متاعك و الماتيار الإختياري',
-    'selection.bacTitle': 'إختار نوع الباك',
+    'selection.bacTitle': 'إختار نوع الBac',
     'selection.optionalTitle': 'إختار الماتيار الإختياري',
-    'selection.submit': 'حمّل الباك المخصص متاعي',
+    'selection.submit': 'حمّل الPack المخصص متاعي',
     'selection.warning': 'لازم تختار التخصص و الماتيار الإختياري',
-    'bac.math': 'باك ماط',
-    'bac.sciences': 'باك علوم',
-    'bac.letters': 'باك آداب',
-    'bac.info': 'باك أنفو',
-    'bac.tech': 'باك تقني',
-    'bac.econ': 'باك إقتصاد و تصرف',
-    'optional.spanish': 'إسباني',
-    'optional.italian': 'إيطالي',
-    'optional.german': 'ألماني',
-    'pack.title': 'الباك المخصص متاعك',
+    'bac.math': 'Bac Math',
+    'bac.sciences': 'Bac Sciences',
+    'bac.letters': 'Bac Lettres',
+    'bac.info': 'Bac Informatique',
+    'bac.tech': 'Bac Technique',
+    'bac.econ': 'Bac Économie et Gestion',
+    'optional.spanish': 'Espagnol',
+    'optional.italian': 'Italien',
+    'optional.german': 'Allemand',
+    'pack.title': 'الPack المخصص متاعك',
     'pack.limited': 'عرض خاص',
     'pack.whatIncluded': 'شنوا موجود',
-    'pack.complete': 'كورسات كاملة على حسب التخصص متاعك',
-    'pack.exercises': 'مئات التمارين مع إصلاح مفصل',
-    'pack.exams': 'مواضيع حقيقية من إمتحانات الباك',
-    'pack.corrections': 'الإصلاح و الشروحات',
+    'pack.complete': 'Cours كاملة على حسب التخصص متاعك',
+    'pack.exercises': 'مئات Exercices مع Corrigés مفصلة',
+    'pack.exams': 'مواضيع حقيقية من إمتحانات الBac',
+    'pack.corrections': 'Solutions و Explications',
     'pack.lifetime': 'تنجم تستعملو على طول بلا مصاريف زايدة',
     'pack.selected': 'الإختيار متاعك',
     'pack.specialty': 'التخصص',
