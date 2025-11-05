@@ -143,7 +143,7 @@ const translations = {
     'testimonials.amira': 'نجحني عاونتني برشا في النظام. لقيت اللي نستحقو عام كامل في بلاصة وحدة ',
     'testimonials.amiraName': 'أميرة ك.',
     'testimonials.amiraTitle': 'Bac 2025',
-    'testimonials.mohamed': 'نجحت بمعدل باهي خاطر ربحت الوقت و قريت بالباك متاع نجحني لقيت فيه كل شي',
+    'testimonials.mohamed': 'نجحت بمعدل باهي خاطر ربحت الوقت و قريت PACK متاع نجحني لقيت فيه كل شي',
     'testimonials.mohamedName': 'محمد س.',
     'testimonials.mohamedTitle': 'Bac 2025',
     'testimonials.salma': 'ننصح اي واحد باك باش ياخذ PACK نجحني يسهل عليك برشا القراية',
