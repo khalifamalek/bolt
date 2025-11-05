@@ -134,7 +134,7 @@ const translations = {
     'features.corrections': 'الإصلاح',
     'features.correctionsDesc': 'إصلاح مفصل لكل التمارين',
     'benefits.title': 'علاش تختار Pack Bac  2026؟',
-    'benefits.subtitle':أحسن حاجة باش تحضر للباك',
+    'benefits.subtitle': ' bac أحسن حاجة باش تحضر للباك',
     'benefits.verified': 'محتوى متحقق من عند المعلمين',
     'benefits.adapted': '100٪ على حسب البرنامج التونسي',
     'benefits.updates': 'تحديثات بلاش',
